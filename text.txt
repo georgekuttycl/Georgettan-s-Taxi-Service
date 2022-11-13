@@ -1,0 +1,27 @@
+  <div class="main-section container">
+    <div>
+      <h2>Ride with Georgettan's Taxi</h2>
+    </div>
+    <div class="row">
+      <div class="col-2">
+        <img
+          src="https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_225,h_225/v1649914471/assets/89/8e4239-5e7d-4de7-bf71-00cc32d468db/original/Auto-150X150p4x.png"
+          width="200" height="200" />
+      </div>
+      <div class="col-4">
+        <h5>Georgettan's Auto</h5>
+        <p>Get affordable Uber Auto rides with no haggling. Request Uber Auto and ride comfortably around your city.</p>
+      </div>
+      <div class="col-2">
+        <img
+          src="https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_225,h_225/v1649914539/assets/86/82f8b3-e2e6-45f8-a8f7-fdc511f709e0/original/Moto-150X150p4x.png"
+          width="200" height="200" />
+      </div>
+      <div class="col-4">
+        <h5>Georgettan's Moto</h5>
+        <p>Get affordable bike rides at your doorstep. Skip the crowd and zip through traffic with Uber Moto.</p>
+      </div>
+
+    </div>
+
+  </div>
